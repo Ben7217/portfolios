@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I came to Turing because I was at a cross-roads in my life; an early mid-life crisis if you will. I realized I have no hireable skills besides restaurant work and I didn't wish to keep doing that forever. 
 
 ## Rubric Scores
 
